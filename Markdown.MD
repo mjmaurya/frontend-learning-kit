@@ -1,3 +1,5 @@
+![](https://github.com/mjmaurya/frontend-leraning-kit/blob/main/Assets/cheatsheet-markdown.jpg)
+
 ## Emoji
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
