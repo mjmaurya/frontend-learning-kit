@@ -5,7 +5,11 @@ Frontend tech guide and collection of highly recommended materials
 
 ![Frontend](https://github.com/mjmaurya/frontend-leraning-kit/blob/main/frontend.png)
 </div>
-  
+ 
+ ***Show your support by giving a ⭐  to this repo***
+ 
+ ___
+ 
 # Resources
 
 ### HTML
