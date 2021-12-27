@@ -19,6 +19,8 @@ Frontend tech guide and collection of highly recommended materials
  
 # Resources
 
+## [2022 Frontend Development Roadmap](https://github.com/mjmaurya/frontend-leraning-kit/blob/main/frontend-roadmap.MD)
+
 ### HTML
 
 - :closed_book: [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
