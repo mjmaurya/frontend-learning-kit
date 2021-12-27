@@ -6,11 +6,10 @@ Frontend tech guide and collection of highly recommended materials
 ![Frontend](https://github.com/mjmaurya/frontend-leraning-kit/blob/main/frontend.png)
 </div>
  
- ![Issues](https://img.shields.io/github/issues/mjmaurya/frontend-leraning-kit)
- ![FORKS](https://img.shields.io/github/forks/mjmaurya/frontend-leraning-kit)
- ![Stars](https://img.shields.io/github/stars/mjmaurya/frontend-leraning-kit)
- ![License](https://img.shields.io/github/license/mjmaurya/frontend-leraning-kit)
- [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmjmaurya%2Ffrontend-leraning-kit)](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmjmaurya%2Ffrontend-leraning-kit)
+ ![Issues](https://img.shields.io/github/issues/mjmaurya/frontend-leraning-kit?label=ISSUES)
+ [![FORKS](https://img.shields.io/github/forks/mjmaurya/frontend-leraning-kit?label=FORKS)](https://github.com/mjmaurya/frontend-leraning-kit/network)
+ [![Stars](https://img.shields.io/github/stars/mjmaurya/frontend-leraning-kit?label=STARS)](https://github.com/mjmaurya/frontend-leraning-kit/stargazers)
+ ![License](https://img.shields.io/github/license/mjmaurya/frontend-leraning-kit?label=LICENSE)
 
 
  
