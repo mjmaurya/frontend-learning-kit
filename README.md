@@ -45,3 +45,18 @@ Frontend tech guide and collection of highly recommended materials
     - 📹 [JavaScript30](https://javascript30.com/)
     - 📹 [JavaScript Video (English)](https://www.youtube.com/watch?v=uDwSnnhl1Ng&list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV)
     - 📹 [JavaScript Video (Hindi)](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL)
+
+### REACT
+- 📕[MDN React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+- 📕[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+- 📕[React Tutorial](https://react-tutorial.app/app.html?id=327)
+-  #### Video Tutorial
+    - 📹[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react):Free course for React newbies and those looking to get a better understanding of React fundamentals.
+    - 📹[ReactJS for Beginners:- Simplilearn](https://www.simplilearn.com/learn-react-js-basics-free-course-skillup?referrer=search&tag=react)\\
+
+- #### Redux
+    - 📕[Installation](https://redux.js.org/introduction/installation)
+    - 📕[Getting Started with Redux](https://redux.js.org/introduction/getting-started)
+- #### React Router
+    - 📕[Basic Installation](https://reactrouter.com/docs/en/v6/getting-started/installation#basic-installation)
+    - 📕[Getting Started with React Router](https://reactrouter.com/docs/en/v6/getting-started/tutorial)
