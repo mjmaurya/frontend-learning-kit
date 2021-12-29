@@ -25,11 +25,13 @@ Frontend tech guide and collection of highly recommended materials
 
 - :closed_book: [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - :closed_book: [HTML.COM](https://html.com/document/)
+- 📘[Cheat Sheet](https://htmlcheatsheet.com/)
 
 ### CSS
 
 - :closed_book: [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - :closed_book: [DevDocs](https://devdocs.io/css/)
+- 📘[Cheat Sheet](https://htmlcheatsheet.com/css)
 
 ### Markdown
 
@@ -41,6 +43,7 @@ Frontend tech guide and collection of highly recommended materials
 - :closed_book: [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - :closed_book: [DevDocs](https://devdocs.io/javascript/)
 - 📕 [JSDoc](https://jsdoc.app/)
+- 📘 [Cheat Sheet](https://htmlcheatsheet.com/js)
 - #### Video Tutorial
     - 📹 [JavaScript30](https://javascript30.com/)
     - 📹 [JavaScript Video (English)](https://www.youtube.com/watch?v=uDwSnnhl1Ng&list=PLsyeobzWxl7qtP8Lo9TReqUMkiOp446cV)
