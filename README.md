@@ -55,7 +55,7 @@ Frontend tech guide and collection of highly recommended materials
 - 📕[React Tutorial](https://react-tutorial.app/app.html?id=327)
 -  #### Video Tutorial
     - 📹[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react):Free course for React newbies and those looking to get a better understanding of React fundamentals.
-    - 📹[ReactJS for Beginners:- Simplilearn](https://www.simplilearn.com/learn-react-js-basics-free-course-skillup?referrer=search&tag=react)\\
+    - 📹[ReactJS for Beginners:- Simplilearn](https://www.simplilearn.com/learn-react-js-basics-free-course-skillup?referrer=search&tag=react)
 
 - #### Redux
     - 📕[Installation](https://redux.js.org/introduction/installation)
@@ -63,3 +63,13 @@ Frontend tech guide and collection of highly recommended materials
 - #### React Router
     - 📕[Basic Installation](https://reactrouter.com/docs/en/v6/getting-started/installation#basic-installation)
     - 📕[Getting Started with React Router](https://reactrouter.com/docs/en/v6/getting-started/tutorial)
+
+### Angular
+
+- 📕 [MDN Angular](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)
+- 📕 [DevDocs Angular](https://devdocs.io/angular/)
+- 📕 [Angular Official](https://angular.io/docs)
+
+- #### Video Tutorial
+    - 📹[Angular Tutorial For Beginners](https://www.youtube.com/watch?v=iZ1mlcCkY8A)
+    - 📹[Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&rv=2OHbjep_WjQ&t=0)
